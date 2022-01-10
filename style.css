@@ -1,0 +1,16 @@
+p{
+    background: orange;
+    font-size: 24px;
+}
+p{
+    background: green;
+}
+.photo-grid {
+
+    /* ………*/
+    
+    Flex-direction: column;
+    
+    Align-items: center;
+    
+    }
